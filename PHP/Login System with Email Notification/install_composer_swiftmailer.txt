@@ -1,0 +1,5 @@
+Composer:
+https://getcomposer.org/download/
+
+Swiftmailer:
+https://swiftmailer.symfony.com/docs/introduction.html
